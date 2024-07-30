@@ -3,8 +3,8 @@
 <h3 align="center">A Developer from Germany</h3>
 
 ## 💬 Ask me about
-- I'm a Python Developer
-- I'm a Discord Bot Developer
+- Python
+- Discord Bot Development in Python
 
 ## 📅 Hobbies
 - Solve programming problems

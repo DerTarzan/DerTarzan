@@ -1,10 +1,19 @@
-<h1>Interested in everything computer-related.</h1>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DerTarzan&theme=github_dark)
+<h1 align="center">Hi 👋, I'm Tarzan</h1>
+<h3 align="center">A Developer from Germany</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DerTarzan&theme=github_dark&utcOffset=2)
+## 💬 Ask me about
+- I'm a Python Developer
+- I'm a Discord Bot Developer
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DerTarzan&theme=github_dark)
+## 📅 Hobbies
+- Solve programming problems
+- Watch Netflix, Youtube
+- Play videogames
+
+## 💻 Current projects
+- MusicPlayer - play a music stream from llovemusic
+- DiscordBot - Side project
 
 <p align="center">
   <a href="https://skillicons.dev">
